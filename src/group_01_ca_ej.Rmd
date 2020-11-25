@@ -27,3 +27,5 @@ ggplot(data = ces, aes(x = white_percent, y = ces_3_0_score))+
   theme_minimal()
 ```
 
+
+**Figure 1.** CalEnviroScreen pollution burden score versus percent population white. This data displays a trend of higher pollution burden score with lower white population percentage. 
